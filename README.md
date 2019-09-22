@@ -1,2 +1,2 @@
 # gh-hello-world
-Hello world projjject for git hub tut
+Hello world project for git hub tut
